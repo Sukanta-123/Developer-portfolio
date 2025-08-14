@@ -385,12 +385,16 @@ input[type="email"] {
     left: 950px;
     margin-top: 40px;
 }
-input[type="message"] {
+textarea {
+    border: none;
     width: 460px;
     height: 180px;
-    border: none;
     position: absolute;
-    top: 382px;
+    top: 420px;
     left: 950px;
-    margin-top: 40px;
+}
+.foot-submit {
+    position: absolute;
+    top: 680px;
+    left: 950px;
 }
