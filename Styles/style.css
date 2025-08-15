@@ -4,6 +4,10 @@
     font-family: 'Open Sans', 'Helvetica Neue';
     border: border-box;
 }
+body {
+    max-width: 1600px;
+    margin: 0 auto;
+}
 .Main-box {
     width: 1600px;
     height: 840px;
